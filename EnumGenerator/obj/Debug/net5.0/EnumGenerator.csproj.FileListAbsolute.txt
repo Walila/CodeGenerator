@@ -1,0 +1,12 @@
+C:\Code\Myself\CodeGenerator2\EnumGenerator\bin\Debug\net5.0\EnumGenerator.deps.json
+C:\Code\Myself\CodeGenerator2\EnumGenerator\bin\Debug\net5.0\EnumGenerator.dll
+C:\Code\Myself\CodeGenerator2\EnumGenerator\bin\Debug\net5.0\ref\EnumGenerator.dll
+C:\Code\Myself\CodeGenerator2\EnumGenerator\bin\Debug\net5.0\EnumGenerator.pdb
+C:\Code\Myself\CodeGenerator2\EnumGenerator\obj\Debug\net5.0\EnumGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Myself\CodeGenerator2\EnumGenerator\obj\Debug\net5.0\EnumGenerator.AssemblyInfoInputs.cache
+C:\Code\Myself\CodeGenerator2\EnumGenerator\obj\Debug\net5.0\EnumGenerator.AssemblyInfo.cs
+C:\Code\Myself\CodeGenerator2\EnumGenerator\obj\Debug\net5.0\EnumGenerator.csproj.CoreCompileInputs.cache
+C:\Code\Myself\CodeGenerator2\EnumGenerator\obj\Debug\net5.0\EnumGenerator.dll
+C:\Code\Myself\CodeGenerator2\EnumGenerator\obj\Debug\net5.0\ref\EnumGenerator.dll
+C:\Code\Myself\CodeGenerator2\EnumGenerator\obj\Debug\net5.0\EnumGenerator.pdb
+C:\Code\Myself\CodeGenerator2\EnumGenerator\obj\Debug\net5.0\EnumGenerator.csproj.AssemblyReference.cache

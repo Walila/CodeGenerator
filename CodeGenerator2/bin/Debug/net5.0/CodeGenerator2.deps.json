@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodeGenerator2/1.0.0": {
+        "dependencies": {
+          "ForTestOnly": "1.0.0"
+        },
+        "runtime": {
+          "CodeGenerator2.dll": {}
+        }
+      },
+      "ForTestOnly/1.0.0": {
+        "runtime": {
+          "ForTestOnly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeGenerator2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForTestOnly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

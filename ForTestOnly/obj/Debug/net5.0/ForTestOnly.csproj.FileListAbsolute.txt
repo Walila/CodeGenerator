@@ -1,0 +1,12 @@
+C:\Code\Myself\CodeGenerator2\ForTestOnly\bin\Debug\net5.0\ForTestOnly.deps.json
+C:\Code\Myself\CodeGenerator2\ForTestOnly\bin\Debug\net5.0\ForTestOnly.dll
+C:\Code\Myself\CodeGenerator2\ForTestOnly\bin\Debug\net5.0\ForTestOnly.pdb
+C:\Code\Myself\CodeGenerator2\ForTestOnly\obj\Debug\net5.0\ForTestOnly.csproj.AssemblyReference.cache
+C:\Code\Myself\CodeGenerator2\ForTestOnly\obj\Debug\net5.0\ForTestOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Myself\CodeGenerator2\ForTestOnly\obj\Debug\net5.0\ForTestOnly.AssemblyInfoInputs.cache
+C:\Code\Myself\CodeGenerator2\ForTestOnly\obj\Debug\net5.0\ForTestOnly.AssemblyInfo.cs
+C:\Code\Myself\CodeGenerator2\ForTestOnly\obj\Debug\net5.0\ForTestOnly.csproj.CoreCompileInputs.cache
+C:\Code\Myself\CodeGenerator2\ForTestOnly\obj\Debug\net5.0\ForTestOnly.dll
+C:\Code\Myself\CodeGenerator2\ForTestOnly\obj\Debug\net5.0\refint\ForTestOnly.dll
+C:\Code\Myself\CodeGenerator2\ForTestOnly\obj\Debug\net5.0\ForTestOnly.pdb
+C:\Code\Myself\CodeGenerator2\ForTestOnly\obj\Debug\net5.0\ref\ForTestOnly.dll

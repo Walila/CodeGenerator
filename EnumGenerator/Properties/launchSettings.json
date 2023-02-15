@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EnumGenerator": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

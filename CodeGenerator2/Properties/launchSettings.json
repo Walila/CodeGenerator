@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeGenerator2": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

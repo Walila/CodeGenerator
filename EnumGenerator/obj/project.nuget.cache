@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8Wr3fUWi4r5JCmBZGwNxrcZHRF/OoRqJpveCpyAIK4/A3NMYW4JpPKsa2I8UBupThYrfL7/c4wCS6RHD8i3LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Myself\\CodeGenerator2\\EnumGenerator\\EnumGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\microsoft.codeanalysis.common\\4.4.0\\microsoft.codeanalysis.common.4.4.0.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.4.0\\microsoft.codeanalysis.csharp.4.4.0.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\vincent.lai76\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
